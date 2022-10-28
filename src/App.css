@@ -1,0 +1,54 @@
+.input{
+    margin-top: 5%;
+    width: 55%;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-left: 4%;
+}
+.join{
+    width: 30%;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0 5px;
+    font-size: 16px;
+    background-color: #fff;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    background-color: rgba(205, 92, 92, 0.817);
+    margin-left: 2%;
+}
+.viewer{
+    width: 90%;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0 5px;
+    font-size: 16px;
+    background-color:  rgba(0, 162, 255, 0.653);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.golive{
+    width: 60px;
+    height: 60px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    padding: 0 5px;
+    font-size: 12px;
+    background-color:  rgba(0, 162, 255, 0.653);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    margin-left: 79%;
+    margin-top: -1%;
+}
+hr{
+    border-color: 0.2px solid black;
+    margin-top: 8%;
+    color: rgb(0, 0, 0);
+}
