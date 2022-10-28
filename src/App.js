@@ -125,8 +125,8 @@ function Controls() {
   return (
     <div>
       <button onClick={leave}>Leave</button>
-      <button onClick={toggleMic}>toggleMic</button>
-      <button onClick={toggleWebcam}>toggleWebcam</button>
+      <button onClick={toggleMic}>Mute Mic</button>
+      <button onClick={toggleWebcam}>Camera</button>
     </div>
   );
 }
